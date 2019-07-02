@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\joe\desktop\c++\udemy c++\sizeof_2darrays\sizeof_2darrays\main.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  sizeof_2Darrays.vcxproj -> C:\Users\Joe\Desktop\C++\Udemy C++\sizeof_2Darrays\Debug\sizeof_2Darrays.exe
+  sizeof_2Darrays.vcxproj -> C:\Users\Joe\Desktop\C++\Udemy C++\sizeof_2Darrays\Debug\sizeof_2Darrays.pdb (Full PDB)

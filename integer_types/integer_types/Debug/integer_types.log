@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\joe\desktop\c++\udemy c++\integer_types\integer_types\main.cpp(13): warning C4305: 'initializing': truncation from '__int64' to 'long'
+c:\users\joe\desktop\c++\udemy c++\integer_types\integer_types\main.cpp(13): warning C4309: 'initializing': truncation of constant value
+  integer_types.vcxproj -> C:\Users\Joe\Desktop\C++\Udemy C++\integer_types\Debug\integer_types.exe
+  integer_types.vcxproj -> C:\Users\Joe\Desktop\C++\Udemy C++\integer_types\Debug\integer_types.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\joe\desktop\c++\udemy c++\floating_point_numbers\floating_point_numbers\main.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  floating_point_numbers.vcxproj -> C:\Users\Joe\Desktop\C++\Udemy C++\floating_point_numbers\Debug\floating_point_numbers.exe
+  floating_point_numbers.vcxproj -> C:\Users\Joe\Desktop\C++\Udemy C++\floating_point_numbers\Debug\floating_point_numbers.pdb (Full PDB)
